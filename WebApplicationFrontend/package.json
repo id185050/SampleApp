@@ -1,0 +1,11 @@
+{
+  "name": "webapplicationfrontend",
+  "version": "1.0.0",
+  "description": "DevEx Onboarding Sample App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Dismukes",
+  "license": "ISC"
+}
