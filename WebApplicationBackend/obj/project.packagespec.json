@@ -1,9 +1,9 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplicationBackend.csproj",
-    "projectName": "WebApplicationBackend",
-    "projectPath": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplicationBackend.csproj",
+    "projectUniqueName": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj",
+    "projectName": "WebApplication",
+    "projectPath": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj",
     "outputPath": "/Users/ID185050/dev/sample/WebApplicationBackend/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [

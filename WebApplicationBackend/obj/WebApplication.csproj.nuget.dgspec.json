@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ID185050/dev/sample/WebApplication/WebApplication.csproj": {}
+    "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj": {}
   },
   "projects": {
-    "/Users/ID185050/dev/sample/WebApplication/WebApplication.csproj": {
+    "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ID185050/dev/sample/WebApplication/WebApplication.csproj",
+        "projectUniqueName": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "/Users/ID185050/dev/sample/WebApplication/WebApplication.csproj",
+        "projectPath": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj",
         "packagesPath": "/Users/ID185050/.nuget/packages/",
-        "outputPath": "/Users/ID185050/dev/sample/WebApplication/obj/",
+        "outputPath": "/Users/ID185050/dev/sample/WebApplicationBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ID185050/.nuget/NuGet/NuGet.Config"

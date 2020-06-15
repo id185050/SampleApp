@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "StwQomZsKYnPHSltLxKaAeq/HX0dYMVEvEEz9pBKsOJ61bfoVipF2lDdqPcIn9U6233WflZyOMM5adfV+auShg==",
+  "dgSpecHash": "SASvTi3l+pX0b3fnyokmgczAKfF9E7ICWI+Z3FDv/j+APSrACuQc8lK3n5QSzX3Z1s4njUy4F+GLkT1lk3PxHQ==",
   "success": true,
-  "projectFilePath": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplicationBackend.csproj",
+  "projectFilePath": "/Users/ID185050/dev/sample/WebApplicationBackend/WebApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
